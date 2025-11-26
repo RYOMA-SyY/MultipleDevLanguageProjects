@@ -11,7 +11,6 @@ This repository contains a collection of programming projects organized by langu
   - System programming
 
 - **C#/**: C# projects
-  - Game Engine
   - Calculator
   - UI Components
 
